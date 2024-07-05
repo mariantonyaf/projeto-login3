@@ -26,6 +26,7 @@ body{
     border: 1px solid rgba(208, 208, 208, .456);
     width: 768px;
     min-height: 480px;
+    overflow: hidden;
 }
 
 .container p{
